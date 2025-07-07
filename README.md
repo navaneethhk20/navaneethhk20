@@ -11,6 +11,9 @@
 - 🌱 I'm continuously enhancing my skills in **Automation Frameworks and CI/CD Integration**
 - 💼 Experienced in **Web, Mobile, and API Testing**
 - 📫 How to reach me: **hknavaneeth@gmail.com**
+## Resume
+![image](https://github.com/user-attachments/assets/4671f15a-5c11-478c-9f81-d4f00baf63dd)
+https://drive.google.com/file/d/1aHblFMEumQuowlrUjw_qz91hsEYLs89N/view?usp=sharing
 
 ## 🛠️ Technical Skills
 
