@@ -12,7 +12,7 @@
 - 💼 Experienced in **Web, Mobile, and API Testing**
 - 📫 How to reach me: **hknavaneeth@gmail.com**
 ## Resume
-https://drive.google.com/file/d/1aHblFMEumQuowlrUjw_qz91hsEYLs89N/view?usp=sharing
+https://drive.google.com/file/d/1Z6YVDe_FPgN5f-Qmzb_e3OaqB-F4K_WI/view?usp=sharing
 
 ## 🛠️ Technical Skills
 
