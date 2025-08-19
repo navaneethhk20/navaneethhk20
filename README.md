@@ -11,7 +11,7 @@
 - 🌱 I'm continuously enhancing my skills in **Automation Frameworks and CI/CD Integration**
 - 💼 Experienced in **Web, Mobile, and API Testing**
 - 📫 How to reach me: **hknavaneeth@gmail.com**
-- https://www.flaticon.com/free-icon/phone-call_597177 phone: 8105663362
+- phone: 8105663362
 ## Resume
 https://drive.google.com/file/d/1Z6YVDe_FPgN5f-Qmzb_e3OaqB-F4K_WI/view?usp=sharing
 
