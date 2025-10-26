@@ -15,6 +15,18 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<a href="https://github.com/navaneethhk20">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navaneethhk20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 - 🔭 **Currently Working On:** Automation frameworks at **Deltek | Replicon**
@@ -104,35 +116,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/navaneethhk20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navaneethhk20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethhk20&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-  
-<a href="https://github.com/navaneethhk20">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navaneethhk20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</a>
-
-</div>
-
-<div align="center">
-
-### 💻 Contribution Graph
-
-<a href="https://github.com/navaneethhk20">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navaneethhk20&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</a>
-
-</div>
 
 ---
 
