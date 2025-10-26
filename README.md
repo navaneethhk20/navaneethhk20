@@ -1,120 +1,183 @@
-<h1 align="center">Hi 👋, I'm Navaneeth H K</h1>
-<h3 align="center">A passionate Software Quality Engineer with 3+ years of experience from India</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Navaneeth H K
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navaneethhk20&label=Profile%20views&color=0e75b6&style=flat" alt="navaneethhk20" />
-</p>
+### QC Engineer | Test Automation Specialist | Quality Advocate
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneeth-hk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hknavaneeth@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918105663362)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Z6YVDe_FPgN5f-Qmzb_e3OaqB-F4K_WI/view?usp=sharing)
 
-- 🔭 I'm currently working as a **QC Engineer at Deltek | Replicon**
-- 🌱 I'm continuously enhancing my skills in **Automation Frameworks and CI/CD Integration**
-- 💼 Experienced in **Web, Mobile, and API Testing**
-- 📫 How to reach me: **hknavaneeth@gmail.com**
-- phone: 8105663362
-## Resume
-https://drive.google.com/file/d/1Z6YVDe_FPgN5f-Qmzb_e3OaqB-F4K_WI/view?usp=sharing
+![Profile Views](https://komarev.com/ghpvc/?username=navaneethhk20&label=Profile%20Views&color=0e75b6&style=flat-square)
 
-## 🛠️ Technical Skills
+</div>
 
-### Testing Types
-- Functional Testing
-- Regression Testing
-- Integration Testing
-- API Testing
-- Performance Testing
-- Security Testing
-- Mobile Testing (Android & iOS)
-- Smoke Testing
-- Localization Testing
-- Accessibility Testing
+---
 
-### Automation Tools
-<p align="left">
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a>
-  <a href="https://testng.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/12528662" alt="testng" width="40" height="40"/> 
-  </a>
-  <a href="https://appium.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="appium" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a>
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://rest-assured.io/img/logo-transparent.png" alt="rest-assured" width="40" height="40"/> 
-  </a>
-  <a href="https://www.soapui.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.soapui.org/smartbearbrand/media/images/product-icons/ready-api-icon.svg" alt="soapui" width="40" height="40"/> 
-  </a>
-</p>
+## 🚀 About Me
 
-### Programming & Scripting
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-</p>
+```java
+public class NavaneethHK {
+    private String role = "QC Engineer";
+    private String company = "Deltek | Replicon";
+    private int experience = 3; // years
+    private String location = "Bengaluru, India";
+    
+    public String[] getExpertise() {
+        return new String[]{
+            "Automation Testing",
+            "API Testing",
+            "CI/CD Integration",
+            "Performance Testing",
+            "Mobile Testing"
+        };
+    }
+    
+    public String getCurrentFocus() {
+        return "Building robust automation frameworks & enhancing CI/CD pipelines";
+    }
+}
+```
 
-### Tools & Platforms
-<p align="left">
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sumologic.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" alt="sumologic" width="40" height="40"/> 
-  </a>
-</p>
+🔭 **Currently Working On:** Automation frameworks at Deltek | Replicon  
+🌱 **Learning:** Advanced CI/CD Integration & Performance Testing Strategies  
+💡 **Passion:** Ensuring software quality through innovative testing solutions  
+📍 **Location:** Bengaluru, Karnataka, India  
+📧 **Reach Me:** hknavaneeth@gmail.com | +91 8105663362
 
-## 🎓 Education & Certifications
+---
 
-### Education
-- **B.E. in Mechanical Engineering**
-  - PES College Of Engineering (CGPA: 7.41/10, Aug 2021)
-- **Science, PCMB**
-  - MASVS Independent College (Percentage: 86.4/100, Apr 2017)
+## 💼 Professional Highlights
 
-### Certifications
-- JMeter Certified
-- Jenkins Certified
-- Mobile Testing with Appium
-- Sumo Logic Certified
-- Agile Scrum Foundation
+<table>
+<tr>
+<td width="50%">
 
-## 📈 GitHub Stats
+### 🎯 Key Achievements
+- ✅ Reduced manual testing effort by **40%**
+- 🚀 Improved CI/CD pipeline efficiency
+- 🔄 Led end-to-end test automation initiatives
+- 📊 Implemented comprehensive API testing strategies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneethhk20&show_icons=true&locale=en&theme=radical" alt="navaneethhk20" />
-</p>
+</td>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navaneethhk20&theme=radical" alt="navaneethhk20" />
-</p>
+### 🏆 Certifications
+- ✓ Sumo Logic Certified
+- ✓ Agile Scrum Foundation
+- ✓ JMeter Certified
+- ✓ Jenkins Certified
+- ✓ Mobile Testing with Appium
 
-## 🔗 Connect with me
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <a href="https://linkedin.com/in/navaneeth-hk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navaneeth-hk" height="30" width="40" />
-  </a>
-  <a href="mailto:hknavaneeth@gmail.com">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" />
-  </a>
-</p>
+---
+
+## 🛠️ Tech Stack
+
+### 🧪 Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-DC422E?style=for-the-badge&logo=testng&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-5BA745?style=for-the-badge&logo=rest-assured&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white)
+![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 💻 Programming & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🗄️ Databases & Monitoring
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Sumo Logic](https://img.shields.io/badge/Sumo_Logic-000080?style=for-the-badge&logo=sumologic&logoColor=white)
+
+### 📊 Project Management & Analytics
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## 🧪 Testing Expertise
+
+<div align="center">
+
+| Testing Type | Proficiency | Experience |
+|:-------------|:-----------:|:----------:|
+| **Functional Testing** | ⭐⭐⭐⭐⭐ | 3+ years |
+| **API Testing** | ⭐⭐⭐⭐⭐ | 3+ years |
+| **Automation Testing** | ⭐⭐⭐⭐⭐ | 3+ years |
+| **Mobile Testing** | ⭐⭐⭐⭐ | 2+ years |
+| **Performance Testing** | ⭐⭐⭐⭐ | 2+ years |
+| **Security Testing** | ⭐⭐⭐⭐ | 2+ years |
+| **Accessibility Testing** | ⭐⭐⭐⭐ | 2+ years |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=navaneethhk20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaneethhk20&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navaneethhk20&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering in Mechanical Engineering**  
+📍 PES College of Engineering, Mandya, Karnataka  
+📅 2017 - 2021 | 🎯 CGPA: 7.41/10
+
+---
+
+## 💡 Professional Philosophy
+
+> *"Quality is not an act, it is a habit."* — Aristotle
+
+I believe in building robust, scalable automation frameworks that not only catch bugs but prevent them. My approach combines technical excellence with collaborative teamwork to deliver exceptional software quality.
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+💼 **Open to opportunities in:** Test Automation | QA Engineering | SDET Roles
+
+📧 **Email:** hknavaneeth@gmail.com  
+📱 **Phone:** +91 8105663362  
+🔗 **LinkedIn:** [navaneeth-hk](https://linkedin.com/in/navaneeth-hk)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⚡ Fun Fact
+*I automated 40% of manual testing tasks, giving me more time to break things in creative ways! 🐛*
+
+**Thanks for visiting! Happy Testing! 🚀**
+
+</div>
