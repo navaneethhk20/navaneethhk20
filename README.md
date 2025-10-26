@@ -17,34 +17,13 @@
 
 ## 🚀 About Me
 
-```java
-public class NavaneethHK {
-    private String role = "QC Engineer";
-    private String company = "Deltek | Replicon";
-    private int experience = 3; // years
-    private String location = "Bengaluru, India";
-    
-    public String[] getExpertise() {
-        return new String[]{
-            "Automation Testing",
-            "API Testing",
-            "CI/CD Integration",
-            "Performance Testing",
-            "Mobile Testing"
-        };
-    }
-    
-    public String getCurrentFocus() {
-        return "Building robust automation frameworks & enhancing CI/CD pipelines";
-    }
-}
-```
-
-🔭 **Currently Working On:** Automation frameworks at Deltek | Replicon  
-🌱 **Learning:** Advanced CI/CD Integration & Performance Testing Strategies  
-💡 **Passion:** Ensuring software quality through innovative testing solutions  
-📍 **Location:** Bengaluru, Karnataka, India  
-📧 **Reach Me:** hknavaneeth@gmail.com | +91 8105663362
+- 🔭 **Currently Working On:** Automation frameworks at **Deltek | Replicon**
+- 🌱 **Learning:** Advanced CI/CD Integration & Performance Testing Strategies
+- 💡 **Passion:** Ensuring software quality through innovative testing solutions
+- 💼 **Experience:** 3+ years in QC Engineering & Test Automation
+- 🎯 **Expertise:** Selenium, TestNG, Rest Assured, API Testing, CI/CD
+- 📍 **Location:** Bengaluru, Karnataka, India
+- 📧 **Reach Me:** hknavaneeth@gmail.com | +91 8105663362
 
 ---
 
