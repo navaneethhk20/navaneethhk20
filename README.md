@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneeth-hk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hknavaneeth@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918105663362)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1Z6YVDe_FPgN5f-Qmzb_e3OaqB-F4K_WI/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1jgWT2Jc8T2Rq4t0vppZjd7_jW0UaVMKC/view?usp=sharing)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=navaneethhk20&label=Profile%20Views&color=0e75b6&style=flat-square)
 
